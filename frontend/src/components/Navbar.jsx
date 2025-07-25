@@ -20,7 +20,7 @@ function Navbar() {
               <div className="size-9 rounded-lg bg-primary/10 flex items-center justify-center">
                 <MessageSquare className="size-5 text-primary" />
               </div>
-              <h1 className="text-lg font-bold">Chattu</h1>
+              <h1 className="text-lg font-bold">Giga Chat</h1>
             </Link>
           </div>
 
