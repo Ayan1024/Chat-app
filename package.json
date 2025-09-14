@@ -6,7 +6,7 @@
   "type": "module",
   "scripts": {
     "build": "npm install --prefix backend && npm install --prefix frontend && npm run build --prefix frontend",
-    "start": "npm run start --prefix backend"
+    "start": "cross-env NODE_ENV=production node backend/src/index.js"
   },
   "engines": {
     "node": "20.x"
@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/Ayan1024/Chat-app/issues"
   },
-  "homepage": "https://github.com/Ayan1024/Chat-app#readme"
+  "homepage": "https://github.com/Ayan1024/Chat-app#readme",
+  "devDependencies": {
+    "cross-env": "^10.0.0"
+  }
 }
