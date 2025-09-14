@@ -42,9 +42,9 @@ if (process.env.NODE_ENV === "production") {
 }
 
 // Health check route
-app.get("/", (req, res) => {
-  res.send("✅ Server is running...");
-});
+// app.get("/", (req, res) => {
+//   res.send("✅ Server is running...");
+// });
 
 // Connect DB and start server
 connectDB().then(() => {
