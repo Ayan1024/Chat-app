@@ -22,7 +22,7 @@
     "url": "https://github.com/Ayan1024/Chat-app/issues"
   },
   "homepage": "https://github.com/Ayan1024/Chat-app#readme",
-  "devDependencies": {
+  "dependencies": {
     "cross-env": "^10.0.0"
   }
 }
