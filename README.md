@@ -23,7 +23,7 @@ Users can log in, chat in real-time, update profiles, and personalize themes —
 ![Login Page](./screenshots/login-page.png)
 
 ### Home Page
-![Home Page](./screenshots/home-page.png)
+![Home Page](./Screenshot 2025-10-19 212843.png)
 
 ### Profile Page
 ![Profile Page](./screenshots/profile-page.png)
