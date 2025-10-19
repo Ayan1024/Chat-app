@@ -20,16 +20,16 @@ Users can log in, chat in real-time, update profiles, and personalize themes —
 ## 🖼️ Screenshots
 
 ### Login Page
-![Login Page](./screenshots/login-page.png)
+![Login Page](./login.png)
 
 ### Home Page
-![Home Page](./Screenshot 2025-10-19 212843.png)
+![Home Page](./chat.png)
 
 ### Profile Page
-![Profile Page](./screenshots/profile-page.png)
+![Profile Page](./profile.png)
 
 ### Theme Settings Page
-![Theme Settings Page](./screenshots/theme-settings-page.png)
+![Theme Settings Page](./theme.png)
 
 ---
 
